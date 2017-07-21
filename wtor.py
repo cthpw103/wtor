@@ -3,6 +3,7 @@ wtor
 by Cth103, 2017
 Usage:
 wtor.py http://www.google.com
+Open port 5000 and 80.
 """
 
 import os
